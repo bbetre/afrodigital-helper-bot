@@ -1,6 +1,7 @@
 
 import React from 'react';
 import ChatInterface from '@/components/ChatInterface';
+import { Twitter, Instagram, Linkedin } from 'lucide-react';
 
 const Index = () => {
   return (
