@@ -1,73 +1,50 @@
-# Welcome to your Lovable project
+Afro Digital Chatbot
+Overview
+Afro Digital Chatbot, also known as Afro Assistant, is a virtual helper designed to provide accurate and concise information about Afro Digital. The chatbot assists users by answering queries related to the company's services, operations, and digital solutions while maintaining a friendly yet professional tone.
 
-## Project info
+Features
+Instant Responses – Provides quick and reliable answers about Afro Digital’s services.
 
-**URL**: https://lovable.dev/projects/bc8b6f37-688f-4b32-a2b3-b71b60e84f0a
+Core Knowledge – Covers web design, AI solutions, digital marketing, and custom software development.
 
-## How can I edit this code?
+User-Friendly Interface – Designed with Ethiopian-inspired UI/UX elements for accessibility.
 
-There are several ways of editing your application.
+Multi-Language Support – Uses simple English with occasional Amharic phrases.
 
-**Use Lovable**
+Contact Information – Displays Afro Digital’s email and phone details for further inquiries.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bc8b6f37-688f-4b32-a2b3-b71b60e84f0a) and start prompting.
+Social Media Links – Directs users to Afro Digital’s official platforms.
 
-Changes made via Lovable will be committed automatically to this repo.
+Technologies Used
+React – Frontend framework for a responsive chatbot interface.
 
-**Use your preferred IDE**
+TypeScript – Ensures type safety and scalability.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Tailwind CSS – Provides a sleek and modern design.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Lucide Icons – Enhances UI with visually appealing icons.
 
-Follow these steps:
+Supabase – Optional integration for storing conversation history.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+How It Works
+User Interaction – Users ask questions about Afro Digital’s services.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Predefined Responses – The chatbot matches queries with stored responses.
 
-# Step 3: Install the necessary dependencies.
-npm i
+Dynamic Updates – Information is retrieved and displayed in real-time.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Professional Tone – Ensures responses are accurate and culturally tailored.
 
-**Edit a file directly in GitHub**
+Social Media Links
+Twitter: Afro Digital Twitter
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Instagram: Afro Digital Instagram
 
-**Use GitHub Codespaces**
+LinkedIn: Afro Digital LinkedIn
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Contact
+For inquiries, reach out to Afro Digital:
 
-## What technologies are used for this project?
+Email: bbetre16@gmail.com
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/bc8b6f37-688f-4b32-a2b3-b71b60e84f0a) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Phone: +251 91220 7180
